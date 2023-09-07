@@ -3,3 +3,4 @@ channels:
   - defaults
 dependencies:
   - python=3.11.4
+  - boto3=1.26.76=py311haa95532_0
